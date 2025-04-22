@@ -32,6 +32,27 @@ A total of two datasets were used in our paper,among which a private datasets wa
 
 Additionally, we provide a publicly available breast cancer [dataset](https://drive.google.com/file/d/1KwgF698k9VrfwyT2vf0wbmJa9m6rCKeF/view?usp=sharing) after processing.
 
+```
+data：
+├── image
+│   ├── qfs_01_0000.nii.gz
+│   ├── qfs_01_0001.nii.gz
+│   ├── qfs_02_0000.nii.gz
+│   ├── qfs_02_0001.nii.gz
+│   ├── qfs_03_0000.nii.gz
+│   ├── qfs_03_0001.nii.gz
+│   ├── ···
+│   ├── ···
+│   ├── qfs_31_0000.nii.gz
+│   └── qfs_31_0001.nii.gz
+└── label
+    ├── qfs_01.nii.gz
+    ├── qfs_02.nii.gz
+    ├── qfs_03.nii.gz
+    ├──···
+    └── qfs_31.nii.gz
+```
+
 
 
 
