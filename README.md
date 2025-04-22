@@ -64,6 +64,10 @@ Among them, _0000 is the pre-contrast period and _0001 is the first post-contras
 [PLHN](https://github.com/ZhouL-lab/PLHN)  
 [PHTrans](https://github.com/lseventeen/PHTrans)
 
+# Query
+For any query, please contact us for more information.
+[Yuexin Wang](ghw231784@gmail.com)
+
 
 # Acknowledgements
 Part of codes are reused from the nnU-Net. Thanks to Fabian Isensee for the codes of nnU-Net.
