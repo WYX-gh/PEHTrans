@@ -65,8 +65,8 @@ Among them, _0000 is the pre-contrast period and _0001 is the first post-contras
 [PHTrans](https://github.com/lseventeen/PHTrans)
 
 # Query
-For any query, please contact us for more information.
-[Yuexin Wang](ghw231784@gmail.com)
+For any query, please contact us for more information.  
+Yuexin Wang (ghw231784@gmail.com)
 
 
 # Acknowledgements
