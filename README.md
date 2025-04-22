@@ -52,7 +52,7 @@ data：
     ├──···
     └── qfs_31.nii.gz
 ```
-
+Among them, _0000 is the pre-contrast period and _0001 is the first post-contrast period
 
 
 
