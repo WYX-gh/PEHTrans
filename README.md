@@ -5,6 +5,7 @@ The code for the paper " PEHTrans: A Hybrid Network with Parallel Encoders and H
 ## 1.Installation
 ### Install PEHTrans as below
 ```
+git clone https://github.com/WYX-gh/PEHTrans.git
 cd PEHTrans
 pip install -e .
 ```
