@@ -1,5 +1,5 @@
 # PEHTrans
-The code for the paper " PEHTrans: A Hybrid Network with Parallel Encoders and Hierarchical Transformers for Multi-Phase Breast Cancer Segmentation " submitted to Biomedical Signal Processing and Control
+The code for the paper " PEHTrans: A Hybrid Network with Parallel Encoders and Hierarchical Transformers for Multi-Phase Breast Cancer Segmentation " submitted to ACM Transactions on Multimedia Computing, Communications, and Applications
 
 # Usage
 ## 1.Installation
